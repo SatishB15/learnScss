@@ -1,0 +1,6 @@
+(NODE)
+npm install -g sass
+(WINDOWS)
+choco install sass
+(LINUX)
+brew install sass/sass/sass

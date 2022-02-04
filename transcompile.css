@@ -1,0 +1,7 @@
+@import url("./nesting.css");
+@import url("./_notcompile.scss");
+.col2 {
+  font-size: large;
+}
+
+/*# sourceMappingURL=transcompile.css.map */
